@@ -9,7 +9,7 @@
 **Sorrir Digital** é uma aplicação web moderna projetada para apresentar uma clínica odontológica, seus serviços, equipe e informações de contato. O objetivo é fornecer uma presença online profissional e informativa para atrair e engajar pacientes.
 
 <!-- Demo (opcional) -->
-[Link para a Demo Ao Vivo](<!-- URL da sua demo -->)
+[Link para a Demo Ao Vivo](https://sorrir-digital.vercel.app/)
 
 ## ✨ Funcionalidades
 
@@ -99,7 +99,7 @@ Siga estes passos para configurar e executar o projeto localmente:
 
 5.  Abra [http://localhost:5173](http://localhost:5173) (ou a porta indicada no terminal) no seu navegador.
 
-## 📸 Screenshots (Opcional)
+## 📸 Screenshots
 
 
 | Screenshot 1      | Screenshot 2      |
